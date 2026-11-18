@@ -1,16 +1,24 @@
-## Hi there 👋
+# hi I am Brahmjot Singh
+B.TECH Core (CSE) Student
+Aspiring Software Developer
+##about me
+Currently pursuing B.TECH in core (CSE).
+Learning Python, HTML and CSS.
+Interested in web development and Software development
+Building practical projects to improve my skills.
+Always ready to learn new technologies
+## Technical skills
+Python
+CSS
+HTML
 
-<!--
-**Brahm7909/Brahm7909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##projects
+### Restaurant Table Management Website
+-- Developed the frontend part using HTML and CSS
+--Focused on creating a user friendly website interface
 
-Here are some ideas to get you started:
+## currently learning
+Python programming
+Web development
+Problem solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
